@@ -138,11 +138,3 @@ The system expects an Excel file with the following columns:
 Detailed documentation available in `read_mes/`:
 - `COHORT_ANALYSIS_README.md` - Comprehensive cohort analysis guide
 - `RECOMMENDER_EVALUATION_README.md` - Evaluation framework documentation
-
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
