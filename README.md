@@ -4,18 +4,18 @@ A Python-based recommendation and analysis engine for investor-company meeting r
 
 ## Features
 
-### 🎯 Company Recommendations
+### Company Recommendations
 - **Pairwise Method**: Correlation-based recommendations using company request patterns
 - **Multivector Method**: Collaborative filtering using investor similarity profiles
 - Generates top-N recommendations based on historical meeting request patterns
 
-### 📊 Cohort Analysis
+### Cohort Analysis
 - Time-based investor grouping (daily, weekly, monthly, quarterly)
 - Cohort retention tracking and behavioral analysis
 - Early adopter pattern identification
 - Cohort-specific recommendation generation
 
-### 🔍 Model Evaluation
+### Model Evaluation
 - Train/validation split evaluation framework
 - Accuracy metrics (precision, recall, F1-score, hit rate)
 - Method comparison tools
